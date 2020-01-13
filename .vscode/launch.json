@@ -1,0 +1,96 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ex01<laba02>",
+            "request": "launch",
+            "mainClass": "laba02.ex01",
+            "projectName": "laba02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ex02<laba02>",
+            "request": "launch",
+            "mainClass": "laba02.ex02",
+            "projectName": "laba02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ex03<laba02>",
+            "request": "launch",
+            "mainClass": "laba02.ex03",
+            "projectName": "laba02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ex04<laba02>",
+            "request": "launch",
+            "mainClass": "laba02.ex04",
+            "projectName": "laba02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ex05<laba02>",
+            "request": "launch",
+            "mainClass": "laba02.ex05",
+            "projectName": "laba02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ex06<laba02>",
+            "request": "launch",
+            "mainClass": "laba02.ex06",
+            "projectName": "laba02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ex07<laba02>",
+            "request": "launch",
+            "mainClass": "laba02.ex07",
+            "projectName": "laba02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ex08<laba02>",
+            "request": "launch",
+            "mainClass": "laba02.ex08",
+            "projectName": "laba02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ex09<laba02>",
+            "request": "launch",
+            "mainClass": "laba02.ex09",
+            "projectName": "laba02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ex10<laba02>",
+            "request": "launch",
+            "mainClass": "laba02.ex10",
+            "projectName": "laba02"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ex01",
+            "request": "launch",
+            "mainClass": "ex01"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-example_XX_01",
+            "request": "launch",
+            "mainClass": "example_XX_01"
+        }
+    ]
+}
